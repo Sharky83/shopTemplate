@@ -1,0 +1,30 @@
+{
+    "Spores": [
+        {
+            "title": "Golden Teacher",
+            "price": 25.00,
+            "image": "images/LiquidCulture1.png",
+            "id": 1
+        },
+        {
+            "title": "B+",
+            "price": 30.00,
+            "image": "images/LiquidCulture1.png",
+            "id": 2
+        }
+    ],
+    "Liquid Culture": [
+        {
+            "title": "Lion's Mane",
+            "price": 35.00,
+            "image": "images/LiquidCulture1.png",
+            "id": 3
+        },
+        {
+            "title": "Cordyceps",
+            "price": 40.00,
+            "image": "images/LiquidCulture1.png",
+            "id": 4
+        }
+    ]
+}
