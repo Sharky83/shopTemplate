@@ -146,36 +146,36 @@ nav ul {
     background-color: var(--secondary-color);
 }
 
-.tour-row {
+.course-row {
     border-bottom: 1px solid black;
     padding-bottom: 1em;
     margin-bottom: 1em;
 }
 
-.tour-row:last-child {
+.course-row:last-child {
     border: none;
 }
 
-.tour-item {
+.course-item {
     display: inline-block;
     padding-right: .5em;
 }
 
-.tour-date {
+.course-date {
     color: #555;
     width: 11%;
     font-weight: bold;
 }
 
-.tour-city {
+.course-city {
     width: 24%;
 }
 
-.tour-arena {
+.course-arena {
     width: 42%;
 }
 
-.tour-btn {
+.course-btn {
     max-width: 19%;
 }
 
