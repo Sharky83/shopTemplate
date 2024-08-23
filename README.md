@@ -8,4 +8,5 @@ add payment options:
 Crypto (display Addresses)
 Buy me a coffee link
 
-link to internal Json file for adding items for sale, and stock: as a static site order process.# shopTemplate
+link to internal Json file for adding items available/stock level: as a static site ordering and payment gateway.
+# shroomies-front

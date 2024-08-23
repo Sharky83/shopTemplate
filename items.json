@@ -1,13 +1,13 @@
 {
     "Spores": [
         {
-            "title": "Golden Teacher",
+            "title": "Oyster",
             "price": 25.00,
             "image": "images/LiquidCulture1.png",
             "id": 1
         },
         {
-            "title": "B+",
+            "title": "Shiitake",
             "price": 30.00,
             "image": "images/LiquidCulture1.png",
             "id": 2
@@ -21,7 +21,7 @@
             "id": 3
         },
         {
-            "title": "Cordyceps",
+            "title": "Reishi",
             "price": 40.00,
             "image": "images/LiquidCulture1.png",
             "id": 4
